@@ -24,3 +24,14 @@
 - [Introduction to GitHub Pages](/tutorial/deploying/introduction-to-github-pages.md)
 - [Connecting Your Repository to GitHub Pages](/tutorial/deploying/connecting-repo-to-github-pages.md)
 - [Deploying and Updating Your Website](/tutorial/deploying/deploying-and-updating.md)
+
+---
+
+<a href="/README.md">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cloud-c4m75tmer-hack-club-bot.vercel.app/0back.svg">
+    <img align="left" width="70" src="https://cloud-c4m75tmer-hack-club-bot.vercel.app/0back.svg" />
+  </picture>
+</a>
+
+<br />

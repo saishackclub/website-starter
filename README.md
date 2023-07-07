@@ -20,8 +20,6 @@ You will learn how to use HTML and CSS to build a website that you can then depl
 
 **Let's get started!**
 
-<br />
-
 ---
 
 <p align="center">
