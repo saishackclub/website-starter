@@ -1,5 +1,7 @@
 # Build your own website (ft. Orpheus)
 
+![Backdrop](assets/backdrop.jpeg)
+
 Hold on to your seats, we're going to build a webs- wait a moment, I'm intercepting a transmission...
 
 `> Hey there, comrades! It’s Orpheus, your coding dino buddy. I might be a bunch of pixels, but I’ve got big dreams and an even bigger appetite for learning. My art may not be the prettiest - but hey, being a dino in a world of humans, I do my best!`

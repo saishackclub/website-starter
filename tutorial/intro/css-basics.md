@@ -44,7 +44,7 @@ This CSS selects all `<p>` elements and makes the text color red and the font si
 <p align="right">
   <em>
     <b>
-      <a href="/tutorial/intro/structuring-your-website.md">
+      <a href="/tutorial/structuring/creating-html-structure.md">
         Let's start structuring your website! →
       </a>
     </b>
