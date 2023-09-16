@@ -14,22 +14,34 @@ Hold on to your seats, we're going to build a webs- wait a moment, I'm intercept
 
 Orpheus, the coding dino that you just met, is here to guide you through making your own personal website.
 
-**Note:** This workshop is designed for beginners with no prior experience in coding. If you have some experience, feel free to skip ahead to the [advanced section](tutorial/advanced/table-of-contents.md). `Prepare to dive into the depths of the coding ocean with me! - Orpheus`
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## What will you learn?
+## Available Scripts
 
-You will learn how to use HTML and CSS to build a website that you can then deploy to the internet. You will also learn how to use Git and GitHub to track your changes and deploy your website.
+In the project directory, you can run:
 
-**Let's get started!**
+### `npm start`
 
----
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-<p align="center">
-    <b>
-        <a href="/tutorial/table-of-contents.md">
-            What's on the menu? →
-        </a>
-    </b>
-</p>
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-<br />
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+Happy hacking!
